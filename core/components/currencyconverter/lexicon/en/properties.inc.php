@@ -66,5 +66,3 @@ $_lang['prop_currencyconverter.chunk_value_desc']    = 'The converted value';
 $_lang['prop_currencyconverter.chunk_updated_desc']  = 'The output for the last time the cached exchange rate was updated.';
 
 $_lang['prop_currencyconverter.chunk_currencytabledata_desc']    = 'Table rows placeholder';
-
-

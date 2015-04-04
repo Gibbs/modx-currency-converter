@@ -1,4 +1,8 @@
-Changelog for Currency Converter (MODx Revolution)
+Changelog for Currency Converter (MODX Revolution)
+
+1.0.2
+=====
+- Added new currencies (CUC, ERT, GGP, IMP)
 
 1.0.1-beta
 ==========
@@ -7,4 +11,3 @@ Changelog for Currency Converter (MODx Revolution)
 1.0.0-beta
 ========== 
 - Initial public release
-

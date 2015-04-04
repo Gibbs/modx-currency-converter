@@ -31,4 +31,3 @@ $result = $cc->run();
 unset($cc);
 
 return $result;
-
